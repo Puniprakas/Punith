@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/punith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punith" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/punith-prakash-iliger-a16a63301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punith" height="30" width="40" /></a>
 <a href="https://instagram.com/p_u_n_i_t_h_1_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_u_n_i_t_h_1_9" height="30" width="40" /></a>
 </p>
 
